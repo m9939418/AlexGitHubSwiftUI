@@ -12,7 +12,7 @@ import SwiftUI
 struct AlexGitHubSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            UserListView()
         }
     }
 }
